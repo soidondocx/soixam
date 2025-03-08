@@ -1,9 +1,15 @@
 import subprocess
 import random
 from datetime import datetime
+import os
 
 # Get the current date
 current_date = datetime.now().strftime("%Y-%m-%d")
+
+GIT_REPO_PATH = "/root/soixam"
+
+os.chdir(GIT_REPO_PATH)
+
 
 # Define a list of 100 commit messages
 commit_messages = [
