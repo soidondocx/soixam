@@ -13,3 +13,4 @@
 2025-03-08: Better exception handling ⚠️
 2025-03-08: Reformatted code structure 🏗️
 2025-03-08: Performance improvements ⚡
+2025-03-08: Code refactor for clarity 📝
