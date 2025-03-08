@@ -1,7 +1,7 @@
 #!/bin/bash
 
 # Clone the repository
-REPO_PATH="/opt/soixam12"
+REPO_PATH="/opt/alts-20"
 if [ ! -d "$REPO_PATH" ]; then
     git clone https://github.com/soidondocx/soixam.git "$REPO_PATH"
 else
@@ -56,6 +56,7 @@ chmod +x "$CRON_SCRIPT"
 
 
 read -p "Enter your GitHub username: " GITHUB_USER
+read -p "Enter your email: " GITHUB_EMAIL
 read -s -p "Enter your GitHub Personal Access Token: " GITHUB_TOKEN
 echo ""
 
@@ -74,6 +75,8 @@ export GITHUB_USER=$GITHUB_USER
 
 current_date=\$(date +"%Y-%m-%d")
 
+git config --global user.email "$GITHUB_EMAIL"
+git config --global user.name "$GITHUB_USER"
 
 echo "\$current_date" >> "$REPO_PATH/git_log.txt"
 
