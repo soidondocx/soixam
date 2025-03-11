@@ -17,3 +17,4 @@
 2025-03-08: Cleaning up old files 🗑️
 2025-03-09: Upgrading libraries and dependencies 📦
 2025-03-11: Adjusted styles for consistency 🎭
+2025-03-11: Fixed minor issues 🩹
