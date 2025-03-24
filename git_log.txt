@@ -30,3 +30,4 @@
 2025-03-21: Testing environment tweaks ⚡
 2025-03-22: Added new features 🌟
 2025-03-23: UI/UX improvements 🎨
+2025-03-24: Adjusting permissions settings 🔑
