@@ -45,3 +45,4 @@
 2025-04-05: Frontend polish 🎨
 2025-04-06: Better input sanitization 🧼
 2025-04-07: Reformatted code structure 🏗️
+2025-04-08: Patching vulnerabilities 🛡️
