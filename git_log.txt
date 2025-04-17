@@ -54,3 +54,4 @@
 2025-04-14: Fixing deployment issues 🚀
 2025-04-15: Stability improvements 🏋️
 2025-04-16: Fixing logs verbosity 📊
+2025-04-17: Handling edge cases better 🌊
