@@ -82,3 +82,4 @@
 2025-05-12: Fixed pipeline failures 🏗️
 2025-05-13: Frontend polish 🎨
 2025-05-14: Making the codebase cleaner 🚿
+2025-05-15: Better user authentication 🔐
