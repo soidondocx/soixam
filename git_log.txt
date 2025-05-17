@@ -84,3 +84,4 @@
 2025-05-14: Making the codebase cleaner 🚿
 2025-05-15: Better user authentication 🔐
 2025-05-16: Optimized workflow 🔧
+2025-05-17: Fixing deployment issues 🚀
